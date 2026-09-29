@@ -17,7 +17,9 @@ Socket.io for real-time messaging, MongoDB for persistent chat history.
 - Input validation, length limits, Helmet, scoped CORS, JSON body size limit
 - Messages rendered as plain text only (no HTML injection)
 - Responsive UI (mobile + desktop)
-
+-----
+🌐 **Live Application:**
+https://chat-application-peach-six.vercel.app/
 
 
 
